@@ -17,6 +17,9 @@ Projeto da disciplina de Redes Complexas para representar estruturas proteicas c
 
 ## Instalação
 
+### Clone do projeto
+git clone https://github.com/Joao-Lucas-Pontes-Freitas/projeto-redes-complexas.git
+
 ### Windows — PowerShell
 
 ```powershell
