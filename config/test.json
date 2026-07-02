@@ -1,0 +1,7 @@
+{
+  "pdb_id": "1PKN",
+  "cutoff_angstrom": 8.0,
+  "louvain_resolution": 0.5,
+  "louvain_seed": 42,
+  "validate_entities": false
+}
